@@ -7,28 +7,13 @@
           "id": "omarchy.indicators"
         },
         {
-          "format": "ddd dd/MM/yyyy HH:mm",
+          "format": "dddd HH:mm",
           "formatAlt": "d MMMM 'W'ww yyyy",
           "id": "omarchy.clock",
           "verticalFormat": "HH\n—\nmm"
         },
         {
-          "id": "omarchy.keyboard-layout"
-        },
-        {
           "id": "omarchy.weather"
-        },
-        {
-          "id": "settings-sync"
-        },
-        {
-          "id": "omarchy.media"
-        },
-        {
-          "id": "omarchy.microphone"
-        },
-        {
-          "id": "omarchy.spacer"
         },
         {
           "id": "omarchy.system-update"
@@ -40,9 +25,6 @@
         },
         {
           "id": "omarchy.workspaces"
-        },
-        {
-          "id": "omarchy.active-window"
         }
       ],
       "right": [
@@ -50,13 +32,16 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "cyberdyne.battery"
+          "id": "settings-sync"
         },
         {
           "id": "io.github.69harold69.gadget-batteries"
         },
         {
           "id": "omarchy.agents"
+        },
+        {
+          "id": "omarchy.keyboard-layout"
         },
         {
           "id": "omarchy.bluetooth"
@@ -68,6 +53,9 @@
           "id": "omarchy.audio"
         },
         {
+          "id": "io.github.juancasanueva.plugin-manager"
+        },
+        {
           "id": "omarchy.monitor"
         },
         {
@@ -76,12 +64,16 @@
       ]
     },
     "position": "top",
-    "transparent": true
+    "transparent": false
   },
   "idle": {
     "lock": 300,
     "screensaver": 150
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "id": "io.github.mtolhuys.fathom"
+    }
+  ],
   "version": 1
 }

@@ -1,8 +1,8 @@
 [
   {
-    "id": "cyberdyne.battery",
-    "url": "https://github.com/tymurbogach/battery.git",
-    "commit": "82ded3d11bdac324b5d7bfea4ec793fd162fafbc",
+    "id": "io.github.mtolhuys.fathom",
+    "url": "https://github.com/mtolhuys/fathom",
+    "commit": "a7fc3f9cc7dff6a7187797d4a02d6506565adde4",
     "enabled": true
   },
   {
@@ -12,8 +12,14 @@
     "enabled": true
   },
   {
+    "id": "io.github.juancasanueva.plugin-manager",
+    "url": "https://github.com/juancasanueva/omarchy-plugin-manager.git",
+    "commit": "bfcc1117e935e7c8507d32ea06ef72f822203547",
+    "enabled": true
+  },
+  {
     "id": "settings-sync",
-    "url": "https://github.com/isaactopo/omarchy-settings-sync.git",
+    "url": "https://github.com/isaactopo/omarchy-settings-sync",
     "commit": "58d0704c9549a733c8c70ddde7165f2e7fb46445",
     "enabled": true
   }
