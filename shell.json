@@ -13,10 +13,19 @@
           "verticalFormat": "HH\n—\nmm"
         },
         {
+          "id": "settings-sync"
+        },
+        {
           "id": "omarchy.weather"
         },
         {
+          "id": "omarchy.microphone"
+        },
+        {
           "id": "omarchy.system-update"
+        },
+        {
+          "id": "omarchy.media"
         }
       ],
       "left": [
@@ -25,6 +34,9 @@
         },
         {
           "id": "omarchy.workspaces"
+        },
+        {
+          "id": "omarchy.active-window"
         }
       ],
       "right": [
@@ -32,7 +44,7 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "settings-sync"
+          "id": "unicadesign.sexy-screenshot"
         },
         {
           "id": "io.github.69harold69.gadget-batteries"
@@ -53,13 +65,16 @@
           "id": "omarchy.audio"
         },
         {
-          "id": "io.github.juancasanueva.plugin-manager"
-        },
-        {
           "id": "omarchy.monitor"
         },
         {
+          "id": "io.github.juancasanueva.plugin-manager"
+        },
+        {
           "id": "omarchy.power"
+        },
+        {
+          "id": "io.github.twiking.omasettings"
         }
       ]
     },
@@ -70,10 +85,6 @@
     "lock": 300,
     "screensaver": 150
   },
-  "plugins": [
-    {
-      "id": "io.github.mtolhuys.fathom"
-    }
-  ],
+  "plugins": [],
   "version": 1
 }

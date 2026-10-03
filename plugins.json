@@ -1,14 +1,14 @@
 [
   {
-    "id": "io.github.mtolhuys.fathom",
-    "url": "https://github.com/mtolhuys/fathom",
-    "commit": "a7fc3f9cc7dff6a7187797d4a02d6506565adde4",
-    "enabled": true
-  },
-  {
     "id": "io.github.69harold69.gadget-batteries",
     "url": "https://github.com/69Harold69/omarchy-gadget-batteries.git",
     "commit": "4748726dd7ace091da61a13b753c610c26569a65",
+    "enabled": true
+  },
+  {
+    "id": "io.github.twiking.omasettings",
+    "url": "https://github.com/twiking/omasettings.git",
+    "commit": "72cfe1640aaece2fef39e4dd155289510f07b2a8",
     "enabled": true
   },
   {
@@ -21,6 +21,12 @@
     "id": "settings-sync",
     "url": "https://github.com/isaactopo/omarchy-settings-sync",
     "commit": "58d0704c9549a733c8c70ddde7165f2e7fb46445",
+    "enabled": true
+  },
+  {
+    "id": "unicadesign.sexy-screenshot",
+    "url": "https://github.com/unicadesign/omarchy-sexy-screenshot",
+    "commit": "90356da0a087f4ad3b5cf9286acb5f416bbd0de5",
     "enabled": true
   }
 ]
