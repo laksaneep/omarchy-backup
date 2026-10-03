@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cyberdyne.battery",
+    "url": "https://github.com/tymurbogach/battery.git",
+    "commit": "82ded3d11bdac324b5d7bfea4ec793fd162fafbc",
+    "enabled": true
+  },
+  {
+    "id": "io.github.69harold69.gadget-batteries",
+    "url": "https://github.com/69Harold69/omarchy-gadget-batteries.git",
+    "commit": "4748726dd7ace091da61a13b753c610c26569a65",
+    "enabled": true
+  },
+  {
+    "id": "settings-sync",
+    "url": "https://github.com/isaactopo/omarchy-settings-sync.git",
+    "commit": "58d0704c9549a733c8c70ddde7165f2e7fb46445",
+    "enabled": true
+  }
+]
